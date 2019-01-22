@@ -1,3 +1,5 @@
+μ
+
 # Extended Photoperiod During Lettuce Propagation Trial
 
 ## Primary Contacts
