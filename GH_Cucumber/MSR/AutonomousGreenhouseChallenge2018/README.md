@@ -1,7 +1,10 @@
 # Autonomous Greenhouse Challenge 2018 - Sonoma Team
 **Contributor**: Kenneth Tran, Microsoft Research
+
 **Crop**: Hi-Power Cucumbers
+
 **Location**: Bleiswijk, The Netherlands
+
 **Duration**: Aug 20, 2018 - Dec 7, 2018
 
 The dataset contains 2 tables:
