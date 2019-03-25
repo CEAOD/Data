@@ -1,4 +1,4 @@
-# Description of data series ‘EC CherryT Kubota Buck’
+# Description of data series `EC CherryT Kubota Buck`
 
 ## Data file names:
 - EC CherryT Kubota Buck Fruit Quality.xls
