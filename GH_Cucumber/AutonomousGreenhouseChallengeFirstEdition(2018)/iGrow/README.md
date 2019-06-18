@@ -1,6 +1,10 @@
 # Autonomous Greenhouse Challenge 2018
 # Team iGrow
-**Organizer website**: https://www.autonomousgreenhouses.com/
+
+# References
+**Article**: [Hemming, S., de Zwart, F., Elings, A., Righini, I., & Petropoulou, A. (2019). Remote Control of Greenhouse Vegetable Production with Artificial Intelligence—Greenhouse Climate, Irrigation, and Crop Production. Sensors, 19(8), 1807.](https://www.mdpi.com/1424-8220/19/8/1807)  
+
+**Organizer website**: https://www.autonomousgreenhouses.com/  
 **Dataset source**: [https://data.4tu.nl/repository/uuid:e4987a7b-04dd-4c89-9b18-883aad30ba9a](https://data.4tu.nl/repository/uuid:e4987a7b-04dd-4c89-9b18-883aad30ba9a)
   
   
