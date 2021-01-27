@@ -11,10 +11,13 @@ Wageningen UR Greenhouse Horticulture, Violierenweg 1, Bleiswijk (The Netherland
 ORGANIZATIONS:
 Wageningen University & Research, Greenhouse Horticulture
 
+SOURCE:
+[https://data.4tu.nl/articles/dataset/Autonomous_Greenhouse_Challenge_Second_Edition_2019_/12764777](https://data.4tu.nl/articles/dataset/Autonomous_Greenhouse_Challenge_Second_Edition_2019_/12764777)
+
 # Citation
 Hemming, S. (Silke); de Zwart, H.F. (Feije); Elings, A. (Anne); Petropoulou, A. (Anna); Righini, Isabella (2020): Autonomous Greenhouse Challenge, Second Edition (2019). 4TU.ResearchData. Dataset. 
 
-https://doi.org/10.4121/uuid:88d22c60-21b3-4ea8-90db-20249a5be2a7 
+[https://doi.org/10.4121/uuid:88d22c60-21b3-4ea8-90db-20249a5be2a7 ](https://doi.org/10.4121/uuid:88d22c60-21b3-4ea8-90db-20249a5be2a7 )
 
 # Parameters’ description  
 
