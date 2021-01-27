@@ -1,3 +1,21 @@
+# Description
+
+The dataset contains data on outdoor and indoor greenhouse climate, irrigation, status of actuators, requested and realized climate setpoints, resource consumption, harvest, crop-related parameters, tomato quality, analysis of irrigation and drain samples and root-zone/slab information. Data were collected during a 6-month cherry tomato production (cv. Axiany) in 6 high-tech glasshouse compartments, located at the Wageningen Research Centre in Bleiswijk (The Netherlands). The dataset was produced during the second edition of Autonomous Greenhouse Challenge. This competition sees five international teams - consisting of scientists, professionals and students with multi-disciplinary expertise - challenging themselves in order to make a large step towards the Autonomous Greenhouse. The teams' names are: The Automators, AICU, IUA.CAAS, Digilog and Automatoes. The teams developed their own intelligent algorithms and used them to determine the set points for climate, irrigation and a number of cultivation-related parameters and control the production of cherry tomato crop remotely. The teams objective was to maximize net profit, by minimizing use of resources (e.g. water, nutrients, energy -heating and electricity- CO2) while optimizing income as a function of production and fruit quality. The achievements in AI-controlled compartments were compared with a reference compartment, operated manually by three Dutch commercial growers (named Reference). The dataset contains raw and processed data. Raw data were collected via climate measuring boxes and sensors, climate and irrigation process computer, weather station, manual registrations (performed by the greenhouse staff).
+
+PUBLISHER:
+4TU.ResearchData
+
+GEOLOCATION:
+Wageningen UR Greenhouse Horticulture, Violierenweg 1, Bleiswijk (The Netherlands),
+
+ORGANIZATIONS:
+Wageningen University & Research, Greenhouse Horticulture
+
+# Citation
+Hemming, S. (Silke); de Zwart, H.F. (Feije); Elings, A. (Anne); Petropoulou, A. (Anna); Righini, Isabella (2020): Autonomous Greenhouse Challenge, Second Edition (2019). 4TU.ResearchData. Dataset. 
+
+https://doi.org/10.4121/uuid:88d22c60-21b3-4ea8-90db-20249a5be2a7 
+
 # Parameters’ description  
 
 - The dataset contains data on outdoor and indoor greenhouse climate, irrigation, status of actuators, requested and realized climate setpoints (“Weather” and “GreenhouseClimate”), resource consumption (“Resources”), harvest (“Production”), crop-related parameters (“CropParameters”), tomato quality ("TomQuality”), analysis of irrigation and drain samples (“LabAnalysis”) and root-zone/slab information (“GrodanSens”).  
@@ -12,8 +30,6 @@
 - **The Reference**, represented by a group of Dutch commercial growers, included the following members: Kees Stijger, Ted Duijvesteijn, Marissa Duijn, Kees Scheffers. 
 
 # Weather data 
-
-
 
 |**Column heading** |**Parameter description** |**Unit** |**Interval** |**Dataset name** |**Data Type** |**Comments** |**Data collection** |
 | - | - | - | - | - | - | - | - |
