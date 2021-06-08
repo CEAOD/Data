@@ -2,7 +2,7 @@
 ## LESA's Github Repository for Plant Growth Data
 
 
-This is the *ReadMe* file for *CHMOD’s Plant Database!*
+This is the *ReadMe* file for Rensselaer Polytechnic Institute's fork of *CHMOD’s Plant Database!*
 
 This is an Open-Source github repository that aims to collaborate Rensselaer Polytechnic Institute’s Lighting and Systems Based Applications research with various other academic institutions and researchers to eventually move towards predictive analytics and machine learning.
 
