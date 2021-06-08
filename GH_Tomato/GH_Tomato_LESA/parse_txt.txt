@@ -1,0 +1,5 @@
+
+
+def read_text:
+	with open('readme.txt') as f:
+    lines = f.readlines()
