@@ -7,7 +7,7 @@
 
 **Funding**: This project was funded as part of the Greenhouse Lighting and Systems Engineering (GLASE) consortium by the New York State Energy Research & Development Authority.
 
-**Related data**: [A similar data set is available for tomatoes.](../CornellCO2LASSIvsLASSI-Tomato/)
+**Related data**: [A similar data set is available for tomatoes.](../../GH_Tomato/CornellCO2LASSIvsLASSI-Tomato/)
 
 
 ## Environmental Data:
