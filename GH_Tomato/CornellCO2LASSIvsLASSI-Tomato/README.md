@@ -9,7 +9,7 @@
 
 **Funding**: This project was funded as part of the Greenhouse Lighting and Systems Engineering (GLASE) consortium by the New York State Energy Research & Development Authority.
 
-**Related data**: [A similar data set is available for strawberries.](../GH_Strawberry/CornellCO2LASSIvsLASSI-Strawberry/)
+**Related data**: [A similar data set is available for strawberries.](../../GH_Strawberry/CornellCO2LASSIvsLASSI-Strawberry/)
 
 ## Environmental Data:
 
