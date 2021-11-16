@@ -1,14 +1,15 @@
 # CO2 LASSI VS LASSI
-**Treatments**: Strawberries were grown in two greenhouses in Ithaca, NY; one greenhouse recieved CO2 LASSI treatment (light and CO2 were integrated to target a “virtual” DLI of 20 mol/m2/d) while the other recieved instead a LASSI treatment (DLI of 20 mol/m2/d was targeted) which did not supplement CO2.
+**Treatments**: Tomatoes were grown in two greenhouses in Ithaca, NY; one greenhouse recieved CO2 LASSI treatment (light and CO2 were integrated to target a “virtual” DLI of 25 mol/m2/d) while the other recieved instead a LASSI treatment (DLI of 25 mol/m2/d was targeted) which did not supplement CO2.
 
 **Location**: Ithaca, NY
 
-**Citation**: Experiment will be Chapter 2 (_Greenhouse Application – Supplemental Light and Carbon Dioxide Interactions Affect Strawberry Yield, Fruit Quality and Energy Consumption_) of the Ph.D. Thesis by Jonathan Asher Karall at Cornell University, 2021. Advisor: Dr. Neil Mattson.
+**Citation**: Experiment was Chapter 2 (_Effects of a Coordinated Supplemental Lighting and CO2 Control Strategy on Tomato Yield and Quality_) of the M.S. Thesis by Masaki Kurosaki at Cornell University, 2021. Advisor: Dr. Neil Mattson 
+
+**Contact**: Dr. Neil Mattson, neil.mattson@cornell.edu
 
 **Funding**: This project was funded as part of the Greenhouse Lighting and Systems Engineering (GLASE) consortium by the New York State Energy Research & Development Authority.
 
-**Related data**: [A similar data set is available for tomatoes.](../CornellCO2LASSIvsLASSI-Tomato/)
-
+**Related data**: [A similar data set is available for strawberries.](../GH_Strawberry/CornellCO2LASSIvsLASSI-Strawberry/)
 
 ## Environmental Data:
 
@@ -60,57 +61,49 @@ The final value of the day’s DLI at sunrise.
 
 ## Harvest Data:
 
-**Cultivar** 
-cv. albion and cv. cabrillo (AL and CA respectively)
+All weights were measured in grams
 
-**Treatment** 
-Control (LASSI) or CO2 LASSI algorithm used targeting 20 mol·m-2·d-1 daily light integral (DLI) or virtual DLI, respectively. Plants in troughs were grown for 4 weeks under 20 mol·m-2·d-1 acclimation/establishment before LASSI and CO2 LASSI treatments began on December 29, 2020. Treatments were delivered for 13 weeks. Plants were harvested twice weekly at the trough level.  
+**Barcode**
+Unique plant identification code.  Plants coded with a leading 1 received CO2 LASSI treatment (light and CO2 were integrated to target a “virtual” DLI of 25 mol/m2/d)  Plants coded with a leading 2 were in an greenhouse without enriched CO2 receiving a LASSI treatment (DLI of 25 mol/m2/d was targeted).
 
+All fruits on a truss were harvested at the stage when 90% of the surface of representative fruits were red.
 
-### “Harvest” Sheet:
-Harvest data at the trough (i.e. bucket) level. Each trough had 4 plants of the same cultivar.
+**Total Weight**
+Complete fresh weight of a truss before further processing including fruit and truss stems
 
-**TB#**
-Total berry number.  A count of the number of berries harvested
+**Fruit Number**
+The total number of fruits harvested in a given week
 
-**TBFW (g)**
-Total Berry Fresh Weight
-
-**TWF/Berry (g)**
-Total fresh weight per berry calculated as the TBFW / TB#
-
-**MB#** 
-The number of marketable berries harvested. Marketability was defined as any berry greater than or equal to 10 g with a minimum 90% pigmentation and the absence of any fruit disfigurement (i.e. defects in pollination).
-
-**MBFW (g)**
-Total Marketable Berry Fresh Weight 
-
-**MFW/Berry  (g)**
-Total Marketable Berry Fresh Weight divided by the number of marketable berries
-
-
-### “Harvest Sum” Sheet:
-
-Data summed and averaged from Harvest sheet.
-
-
-### “Brix & TA” Sheet:
-
-**Berry #**
-Identifying number for one berry of the three randomly selected berries sampled per condition
+**Fruit Fresh Weight**
+The weight of 3 representative fruit per cluster
 
 **Brix**
-A measure of dissolved sugar (number of grams of sucrose in 100 grams of solution). Data were taken from a 0.5 mL sample of juice (after straining a pulp sample through a 10-mesh filter). °Brix was measured with a refractometer (HI96801, Hanna Instruments, Woonsocket, RI) 
+A measure of dissolved sugar (number of grams of sucrose in 100 grams of solution). Data were taken Three fruits per truss were used to measure °Brix with a refractometer (HI96801, Hanna Instruments, Woonsocket, RI).
 
-**TA** 
-Titratable Acidity. Samples were titrated with 0.1 M NaOH to a pH 8.1 end point using an automated endpoint titrator (DL12 Endpoint Titrator; Mettler Toledo LLC., Columbus, OH USA). units are grams per liter (g/L)
+**Truss Weight**
+The fresh weight of the truss stem supporting each fruit (i.e. the peduncles connecting to the fruit)
 
+**Total Fruit Weight**
+The fresh weight of all the fruit on a truss (determined as the Total Weight minus the Truss Weight)
 
-### “Plant Data” Sheet:
-Collected at the conclusion of the treatments.
+**Fruit Dry Weight**
+Weight of three representative fruit after moisture removed (fruit were dried in an oven at 70 C for three days)
 
-**Plant FW (g)**
-Whole plant fresh weight
+**D/F**
+Ratio of fruit dry weight to fresh weight (Fruit Dry Weight/Total Fruit Fresh Weight)
 
-**Plant DW (g)**
-Whole plant dry weight
+**Total DW**
+The total fruit dry weight (calculate from the dry weight of three fruit multiplied by the D/F (i.e. raio of dry weight to fresh weight)
+
+**Individual Fruit Weight**
+Fresh weight of individual fruit, calculated as the Total Fruit Weight/Fruit Number
+
+**Red Fruit Weight**
+Individual fruit fresh weight based on the 3 representative fruit used for dry weights
+
+**FW:DW**
+Ratio of fresh weight to dry weight (calculated as Total Fruit Weight/Total DW)
+
+**Drymatter%**
+Percent dry matter (calculated as Total DW/Total Fruit Weight *100)
+
