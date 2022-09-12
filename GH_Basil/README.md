@@ -1,23 +1,20 @@
-﻿**Description of data ‘BZL\_EXP1EXP2\_Growth\_Data\_for\_Upload.csv’, ‘BZL\_EXP1EXP2\_Temperature\_Data\_for\_Upload.csv’, and ‘BZL\_EXP2\_Nutrient\_Data\_for\_Upload.csv’**
+# Data Description
 
-CSV files ‘BZL\_EXP1EXP2\_Growth\_Data\_for\_Upload.csv’, ‘BZL\_EXP1EXP2\_Temperature\_Data\_for\_Upload.csv’, contain plant growth and glass greenhouse environmental condition data from two trials of a reciprocal grafting study in basil described in detail by Hollick and Kubota (2022) published in Frontiers in Plant Science (<https://doi.org/10.3389/fpls.2022.921440>). ‘BZL\_EXP2\_Nutrient\_Data\_for\_Upload.csv’ contains tissue nutrient analysis data collected in the second trial of the same study.
+The CSV files contain plant growth and glass greenhouse environmental condition data from two trials of a reciprocal grafting study in basil described in detail by Hollick and Kubota (2022) published in Frontiers in Plant Science (<https://doi.org/10.3389/fpls.2022.921440>). `BZL_EXP2_Nutrient.csv` contains tissue nutrient analysis data collected in the second trial of the same study.
 
 Objective of this data collection: to identify the effect of reciprocal grafting two basil cultivars of differing vigor on plant growth and leaf mineral nutrient concentration  
 
-Funding source: USDA NIFA Specialty Crop Research Initiative Grants program (Project number: 2016-51181-25404) 
+**Funding source**: USDA NIFA Specialty Crop Research Initiative Grants program (Project number: 2016-51181-25404) 
 
-Data collected by: Jason R. Hollick
+**Data collected by**: Jason R. Hollick
 
-Contact person: Chieri Kubota (kubota.10@osu.edu)
+**Contact person**: Chieri Kubota (kubota.10@osu.edu)
 
-Data collection site: glass greenhouse located at the Ohio State University, Columbus, Ohio (40°00′07.2′ N, 83°01′42.7′ W)  
+**Data collection site**: glass greenhouse located at the Ohio State University, Columbus, Ohio (40°00′07.2′ N, 83°01′42.7′ W)  
 
 Experiment: Reciprocal grafts of two basil cultivars ('Nufar' and 'Dolce Fresca') as well as un-grafted controls were grown in a glass greenhouse in two trials with the first trial running from 30 September to 9 December 2020 and the second from 15 January to March 11, 2021. Detailed description of the experiment can be found at (<https://doi.org/10.3389/fpls.2022.921440>).
 
-Data collected: 
-
-**‘BZL\_EXP1\_EXP2\_Growth\_Data\_for\_Upload.csv’**  
-
+**BZL_EXP1_EXP2_Growth.csv**  
 - EXP: trial number (1 (30 September to 9 December 2020) or 2 (15 January to March 11 2021))
 - DAS: days after seeding (plants harvested 70 DAS (Trial 1; 9 December 2020) or 55 DAS (Trial 2; March 11 2021)
 - Block: (A,B,C,D,E,F)
@@ -30,7 +27,7 @@ Data collected:
 - Root\_Dry (g): Dry mass of root tissue in grams. Values are the average of 2 plants of the same treatment in the same block.
 - S\_R\_Dry: Ratio of the dry shoot mass to dry root mass. Values are the average of 2 plants of the same treatment in the same block.
 
-**‘BZL\_EXP2\_Nutrient\_Data\_for\_Upload.csv’** 
+**BZL_EXP2_Nutrient.csv** 
 
 - EXP: trial number (2 (15 January to March 11 2021); plants harvested on March 11 2021)
 - DAS: days after seeding
@@ -70,8 +67,6 @@ All values for nutrients are derived from a combined dry tissue sample from two 
 - Growing\_Period: Stage of experiment relative to grafting/healing process (pregraft, graft (only un-granfted control plants present in the greenhouse at this time), and postgraft).  
 - Pre\_Post\_Trans: Stage of experiment relative to transplanting into pots (pre-tranplant or post-transplant).
 
-**References**
+## References
 
 Hollick, J.R., and Kubota, C. 2022. Effect of self- and inter-cultivar grafting on growth and nutrient content in sweet basil (*Ocimum basilicum* L.). Front. Plant Sci. 13: 92144. Doi: 10.3389/fpls.2022.921440
-
-
