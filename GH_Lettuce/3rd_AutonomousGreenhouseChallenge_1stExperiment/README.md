@@ -12,6 +12,9 @@ The dataset was generated for the needs of the 3rd International Autonomous Gree
 
 **Duration**: Feb 01, 2022 - Mar 21, 2022
 
+**License**: MIT
+
+
 ## Parameters' Description
 
 The dataset contains data on outdoor and indoor greenhouse climate, status of actuators, realized climate setpoints ("Weather", "GreenhouseControls" and "GreenhouseClimate"), as well as, crop measurements during the experiment ("Destructive Measurements") the final harvest ("Final Harvest"), and plant density data.
