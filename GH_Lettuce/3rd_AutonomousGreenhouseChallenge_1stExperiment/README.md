@@ -2,7 +2,7 @@
 
 The dataset was generated for the needs of the 3rd International Autonomous Greenhouse Challenge in the experimental facilities of the Greenhouse Horticulture Business Unit in Bleiswijk, The Netherlands during the first lettuce experiment of 2022. Information regarding the competition can be found here [http://www.autonomousgreenhouses.com/](http://www.autonomousgreenhouses.com/).
 
-**Contributor**: Autonomous Greenhouse Challenge Organizers
+**Contributor**: Autonomous Greenhouse Challenge Organizers, processed by Koala Team, [Koidra Tech Inc.](https://koidra.ai) - Winner of the 3rd International Autonomous Greenhouse Challenge.
 
 **Crop**: Lettuce
 

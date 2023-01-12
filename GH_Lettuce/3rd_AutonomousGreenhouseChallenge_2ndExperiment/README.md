@@ -1,6 +1,6 @@
 # **International Autonomous Greenhouse Challenge - 3rd edition - 2nd experiment**
 
-**Contributor**: Koala Team, Koidra Tech Inc. - Winner of the 3rd International Autonomous Greenhouse Challenge.
+**Contributor**: Koala Team, [Koidra Tech Inc.](https://koidra.ai) - Winner of the 3rd International Autonomous Greenhouse Challenge.
 
 **Crop**: Lettuce
 
@@ -10,4 +10,4 @@
 
 **Duration**: May 02, 2022 - Jun 17, 2022
 
-**Note**: There is no plant data until now. Approximated values can be found on [this video](https://www.youtube.com/watch?v=s2Ap7HcGPiI).
+**Note**: There is no plant data until date. Approximated plant weight for each team can be found on [this video](https://youtu.be/s2Ap7HcGPiI?t=13868).
