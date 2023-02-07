@@ -20,19 +20,7 @@ The dataset contains data on outdoor and indoor greenhouse climate, status of ac
 
 Economic calculations are not included in the dataset. However, the prices for the computation of costs and income, thus net profit, can be found in the competition document (`Greenhouse climate control`), section `Economics`.
 
-The five greenhouse compartments have a total area of 96 m² and a growing area of 16 m². The participating teams in the challenge, who contributed to the creation of the dataset, are:
-
--   Team DigitalCucumbers
-
--   Team CVA
-
--   Team Koala
-
--   Team MondayLettuce
-
--   Team VeggieMight
-
--   The Reference, represented by a group of WUR researchers
+The five greenhouse compartments have a total area of 96 m² and a growing area of 16 m². 
 
 ### **Weather data**
 

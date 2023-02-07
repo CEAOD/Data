@@ -20,23 +20,11 @@ The dataset contains data on outdoor and indoor greenhouse climate, status of ac
 
 Economic calculations are not included in the dataset. However, the prices for the computation of costs and income, thus net profit, can be found in the competition document, section `Economics`.
 
-The five greenhouse compartments have a total area of 96 m² and a growing area of 16 m². The participating teams in the challenge, who contributed to the creation of the dataset, are:
-
-- Team DigitalCucumbers
-
-- Team CVA
-
-- Team Koala
-
-- Team MondayLettuce
-
-- Team VeggieMight
-
-- The Reference, represented by a group of WUR researchers
+Each greenhouse compartment has a total area of 96 m² and a growing area of 16 m². 
 
 ### **Climate - Weather data**
 
-| **Column heading** | **Parameter description**                | **Unit**                        |
+| **Column name** | **Parameter description**                | **Unit**                        |
 |--------------------|------------------------------------------|---------------------------------|
 | Tout               | Outside temperature                      | °C                              |
 | Rhout              | Outside relative humidity                | %                               |
@@ -52,9 +40,9 @@ The five greenhouse compartments have a total area of 96 m² and a growing area 
 
 ### **Climate - Greenhouse Indoor**
 
-| **Column heading** | **Parameter description**                                                | **Unit**                        |**Comments**                                                                                                                                                                                        |
+| **Column name** | **Parameter description**                                                | **Unit**                        |**Comments**                                                                                                                                                                                        |
 |--------------------|--------------------------------------------------------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tair               | Greenhouse Air temperature                                               | °C                              | -                                                                                                                                                                                                   |
+| Tair               | Greenhouse air temperature                                               | °C                              | -                                                                                                                                                                                                   |
 | Rhair              | Greenhouse relative humidity                                             | %                               | -                                                                                                                                                                                                   |
 | CO2air             | CO2 greenhouse                                                           | ppm                             | -                                                                                                                                                                                                   |
 | HumDef             | Greenhouse humidity deficit                                              | g/m³                            | -                                                                                                                                                                                                   |
@@ -66,7 +54,7 @@ The five greenhouse compartments have a total area of 96 m² and a growing area 
 | Tpipe              | Rail pipe temperature (Lower circuit)                                    | °C                              | -                                                                                                                                                                                                   |
 | CO2reg             | CO2 regulation                                                           | [0 to 1]                        | -                                                                                                                                                                                                   |
 | PARin              | PAR sum from LED lamps and solar radiation                               | µmol/m²s                        | Measured above the crop level. Accounts for the proportional control of dimmable LEDS with a maximum contribution of LEDS 270µmol/m²s for all teams except the Reference with 150 µmol/m²s          |
-| Tair_sigrow        | Greenhouse Air temperature measured by the Sigrow sensor                 | °C                              | -                                                                                                                                                                                                   |
+| Tair_sigrow        | Greenhouse air temperature measured by the Sigrow sensor                 | °C                              | -                                                                                                                                                                                                   |
 | Rhair_sigrow       | Greenhouse relative humidity measured by the Sigrow sensor               | %                               | -                                                                                                                                                                                                   |
 | PARin_sigrow       | PAR sum from LED lamps and solar radiation measured by the Sigrow sensor | µmol/m²s                        | Measured slightly above the crop level. Accounts for the proportional control of dimmable LEDS with a maximum contribution of LEDS 270µmol/m²s for all teams except the Reference with 150 µmol/m²s |
 | Netrad_ridder      | Estimated net radiation in the greenhouse                                | W/m2                            | -                                                                                                                                                                                                   |
@@ -76,7 +64,7 @@ The five greenhouse compartments have a total area of 96 m² and a growing area 
 
 ### **Climate - Realized setpoints**
 
-| **Column heading** | **Parameter description**                           | **Unit**                        |
+| **Column name** | **Parameter description**                           | **Unit**                        |
 |--------------------|-----------------------------------------------------|---------------------------------|
 | CO2_vip            | CO2 setpoints                                             | ppm                             |
 | dx_vip             | Humidity deficit setpoints                                | g/m³                            |
@@ -91,10 +79,10 @@ The five greenhouse compartments have a total area of 96 m² and a growing area 
 
 ### **Crop – Final Harvest**
 
-| **Column heading** | **Parameter description**                       | **Unit**                                               | **Comments**                                                                                 | 
+| **Column name** | **Parameter description**                       | **Unit**                                               | **Comments**                                                                                 | 
 |--------------------|-------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Plant number       | Sampled plant                                   |                                                        |                                                                                              |
-| Greenhouse side    | Side of growing area that the plant was sampled | [L - left, R - right]                                  | There are growing gutters in two sides in the greenhouse under the growing area of the 16m2. |
+| Greenhouse side    | Side of growing area that the plant was sampled | [L - left, R - right]                                  | There are two growing gutters in two sides in the greenhouse under the growing area of the 16m2. |
 | Tip-burn           | Tip burn occurrence in sampled lettuces         | [scale=1, scale=5]                                     | Sampled lettuce is classified for tip burn occurrence within a scale of 1-5                  |
 | Fresh Weight       | Fresh weight of sampled lettuce                 | gr                                                     | Sampled lettuce is weighed manually on scales                                                |
 | Height             | Height of lettuce head                          | cm                                                     | Height of sampled lettuce                                                                    |
@@ -108,13 +96,13 @@ The five greenhouse compartments have a total area of 96 m² and a growing area 
 
 ### **Crop – Plant Density**
 
-| **Column heading** | **Parameter description**                   | **Unit**                        | 
+| **Column name** | **Parameter description**                   | **Unit**                        | 
 |--------------------|---------------------------------------------|---------------------------------|
 | Plant density      | Number of lettuce heads per m2 growing area | heads/m2                        |
 | Date               | Time                                        | mm/dd/yyyy                      |
 
 ### **Crop – Plant Weight**
-| **Column heading** | **Parameter description**                   | **Unit**                        | 
+| **Column name** | **Parameter description**                   | **Unit**                        | 
 |--------------------|---------------------------------------------|---------------------------------|
 | Dry weight         | Dry weights of sampled plants               | gr                              |
 | Fresh weight       | Fresh weights of sampled plants             | gr                              |
@@ -147,8 +135,8 @@ The destructive measurements correspond to the plants above the written tag at p
 ### **Links** 
 - RGB: https://drive.google.com/drive/folders/1-GsTG_UhDQ8gg_bTEMylnSecDVeJySNz?usp=share_link
 - Depth: https://drive.google.com/drive/folders/1-IJ7Lur4QAp9YzqmtGQkQWC60gtGTOHi?usp=share_link
-- Ground truth: https://drive.google.com/drive/folders/1-ICDqpAsy7MjVdrEmVKI5kIcK598XdwY?usp=share_link
 - Daily images: https://drive.google.com/drive/folders/11lz97i-8G3Y5xzrFn2rxvbvrGjMvtyUU?usp=share_link
+- Ground truth: https://drive.google.com/drive/folders/1-ICDqpAsy7MjVdrEmVKI5kIcK598XdwY?usp=share_link
 
 ### **Additional images**
 These links contain images crawled through public API of the competition. There are 3 folders: `realsense` contains RGB images, `stomata` contains stomatal images, and `thermal` contains thermal images. Images' name have the structure of crawled date and timestamp.
