@@ -5,7 +5,7 @@
 
 **Location**: Bleiswijk, The Netherlands
 
-**Duration**: Aug 20, 2018 - Dec 7, 2018
+**Duration**: Aug 14, 2018 - Dec 7, 2018
 
 The dataset contains 2 tables:
 - Environmental data and setpoints: time series data at 5-minute granularity
